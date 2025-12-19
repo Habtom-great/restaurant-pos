@@ -26,8 +26,8 @@ Watch a walkthrough of the app creation here sample:
 ---
 
 ## Screenshot
-![Restaurant POS Screenshot](screenshot.png)  
-*Replace `screenshot.png` with your actual screenshot in the repository.*
+![Restaurant POS Screenshot](screenshot.png) 
+
 
 ---
 
